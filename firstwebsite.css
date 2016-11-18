@@ -1,0 +1,19 @@
+h1 {
+  color: black; font-size:50px;font-family: Garamond; text-align: center; font-style: bold
+}
+body {background-color: white}
+.navbar-nav {
+	color: white;
+
+	margin:auto;position: center;font-size: 60px;
+	font-family: Garamond; text-align: center; display: block;
+}
+    a {
+    color: black;
+    text-decoration: none;
+    margin-right: 40px
+    }
+.slideshow {margin:auto; position: top; top: 0px; left: 0px; width: 600px;z-index:-1;
+}
+h2 {color: black; font-size:36px;font-family: Garamond; text-align: center; font-style: italic;
+ margin-top:2px }
