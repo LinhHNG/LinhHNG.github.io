@@ -3,7 +3,8 @@ h1 {
   text-decoration: underline; margin-bottom: 20px; margin-top: 20px;
 
 }
-h2 {text-align: center;}
+h2 {color: black; font-size:36px;font-family: Garamond;
+ text-align: center; font-style: italic; margin-bottom: 0px;}
 /*body {background-color: white*/
 /*.nav {
 	background-color: black;
@@ -113,10 +114,10 @@ ol {color: black; font-size:22px;font-family: Garamond; text-align: left; margin
   opacity: 0.8;
   filter: alpha (opacity=70);}
 
-img { border-radius: 60px; 
-	display: block;
-    margin: 20px;
-    width:500px;height:500px; 
+img {border-radius: 60px; 
+  display: block;
+    margin: auto;
+    width:500px;height:500px;
 
 }
 
